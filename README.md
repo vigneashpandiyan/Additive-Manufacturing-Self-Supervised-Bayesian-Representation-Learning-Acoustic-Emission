@@ -30,20 +30,19 @@ where D_+  is the distance between the positive image and the anchor, D_- is the
 
 # Code
 ```bash
-git clone https://github.com/vigneashpandiyan/Additive-Manufacturing-Contrastive-Learners
-cd Additive-Manufacturing-Contrastive-Learners
-python Main_Siamese.py
-python Main_Triplet.py
+git clone https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning
+cd Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning
+python Main.py
 ```
 
 # Citation
 ```
 @article{pandiyan2022situ,
-  title={In situ quality monitoring in direct energy deposition process using co-axial process zone imaging and deep contrastive learning},
-  author={Pandiyan, Vigneashwara and Cui, Di and Le-Quang, Tri and Deshpande, Pushkar and Wasmer, Kilian and Shevchik, Sergey},
-  journal={Journal of Manufacturing Processes},
-  volume={81},
-  pages={1064--1075},
-  year={2022},
+  title={},
+  author={},
+  journal={},
+  volume={},
+  pages={},
+  year={},
   publisher={Elsevier}
 }

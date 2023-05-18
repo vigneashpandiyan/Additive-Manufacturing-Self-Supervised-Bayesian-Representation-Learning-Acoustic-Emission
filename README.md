@@ -3,7 +3,7 @@ Self-Supervised Bayesian Representation Learning of Acoustic Emissions from Lase
 # Journal link
 https://doi.org/10.1016/j.jmapro.2022.07.033
 
-![DED Process](https://user-images.githubusercontent.com/39007209/185093514-34cce1b6-674a-4d39-b451-abe5450e9cce.gif)
+![LPBF](https://github.com/vigneashpandiyan/Additive-Manufacturing-Contrastive-Learners/assets/39007209/aa6fa98d-a0c8-4424-8fbf-aae661a5bdbd)
 
 # Overview
 

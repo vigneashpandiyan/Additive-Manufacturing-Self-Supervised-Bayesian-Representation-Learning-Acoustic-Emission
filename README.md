@@ -1,5 +1,6 @@
 # Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning
 Self-Supervised Bayesian Representation Learning of Acoustic Emissions from Laser Powder Bed Fusion Process for In-situ Monitoring
+![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning/assets/39007209/638e63cf-8004-486a-9f3e-cfbcce913a04)
 # Journal link
 https://doi.org/10.1016/j.jmapro.2022.07.033
 

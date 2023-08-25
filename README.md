@@ -16,7 +16,7 @@ Although most LPBF monitoring strategies based on process zone information in th
 
 Deep learning models are created to understand the relationships between data samples in order to make predictions about the objectives for which they were trained. Thanks to recent improvements in self-supervised representation learning, models can now be trained on less annotated data samples. The goal of self-supervised learning is to identify the most informative characteristics of unlabelled data by creating a supervisory signal, which leads to the learning of generalizable representations. Self-supervised learning has been successful in various computer vision tasks. The self-supervised representation introduced in this study draws inspiration from prior works [64-67] and offers a powerful method for decoding inter and intra-temporal relationships. The methodology proposed aims to extract time series representations from unlabeled data through inter-sample and intra-temporal relation reasoning. This is accomplished by utilizing a shared representation learning encoder backbone (f_( θ)) based on Bayesian Neural Network (BNN), as depicted in Figure below. 
 
-![Picture2](https://github.com/vigneashpandiyan/Additive-Manufacturing-Contrastive-Learners/assets/39007209/c409d2b4-9d71-45a9-b67f-fccbb751704a)
+![image](https://github.com/vigneashpandiyan/Additive-Manufacturing-Transfer-Learning/assets/39007209/0ceb2fa9-8cae-4abf-a4a3-7fd3a85050d8)
 
 
 # Code

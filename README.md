@@ -19,11 +19,13 @@ Deep learning models are created to understand the relationships between data sa
 ![image](https://github.com/vigneashpandiyan/Additive-Manufacturing-Transfer-Learning/assets/39007209/0ceb2fa9-8cae-4abf-a4a3-7fd3a85050d8)
 
 # Highlights
-*The study fills a research gap regarding the robustness of LPBF monitoring when faced with varying data distribution across multiple process parameter spaces.
-*Addressing the challenge of labeling datasets with semantic complexities into discrete process dynamics, the study proposes an ML strategy that utilizes air-borne Acoustic Emission (AE) from the process zone.
-*The study proposes a self-supervised representation learning framework using a Bayesian Neural Network to identify LPBF process dynamics without ground-truth information.
-*The framework's effectiveness is highlighted in classification, anomaly detection, and transfer learning, even in the presence of offset in the AE data associated with different LPBF parameters.
-*The study demonstrated the enhanced generalizability of the ML model by showcasing the prediction accuracy of the proposed self-supervised learning methodology in the newer environment.
+
+* The study fills a research gap regarding the robustness of LPBF monitoring when faced with varying data distribution across multiple process parameter spaces.
+* Addressing the challenge of labeling datasets with semantic complexities into discrete process dynamics, the study proposes an ML strategy that utilizes air-borne Acoustic Emission (AE) from the process zone.
+* The study proposes a self-supervised representation learning framework using a Bayesian Neural Network to identify LPBF process dynamics without ground-truth information.
+* The framework's effectiveness is highlighted in classification, anomaly detection, and transfer learning, even in the presence of offset in the AE data associated with different LPBF parameters.
+* The study demonstrated the enhanced generalizability of the ML model by showcasing the prediction accuracy of the proposed self-supervised learning methodology in the newer environment.
+
 # Code
 ```bash
 git clone https://github.com/vigneashpandiyan/Additive-Manufacturing-Self-Supervised-Bayesian-Representation-Learning

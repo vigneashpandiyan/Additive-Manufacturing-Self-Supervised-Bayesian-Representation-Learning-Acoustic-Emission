@@ -28,12 +28,14 @@ python Main.py
 
 # Citation
 ```
-@article{pandiyan2022situ,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={Elsevier}
+@article{PANDIYAN2023112458,
+title = {Self-Supervised Bayesian representation learning of acoustic emissions from laser powder bed Fusion process for in-situ monitoring},
+journal = {Materials & Design},
+volume = {235},
+pages = {112458},
+year = {2023},
+issn = {0264-1275},
+doi = {https://doi.org/10.1016/j.matdes.2023.112458},
+url = {https://www.sciencedirect.com/science/article/pii/S0264127523008730},
+publisher={Elsevier}
 }
